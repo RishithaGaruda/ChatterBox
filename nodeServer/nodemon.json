@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"saiduddukuri",
+        "DB_PASSWORD":"Sgsgbs!456",
+        "DB_NAME":"chatterdb",
+        "JWT_KEY":"chatterbox_local_key"
+    } 
+}
